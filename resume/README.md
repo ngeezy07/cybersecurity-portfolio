@@ -1,28 +1,13 @@
 # Résumé
 
-This section will contain my cybersecurity résumé.  
-It will also include a downloadable PDF version for recruiters and hiring managers.
+Below is my cybersecurity résumé.  
+Click the link to download the latest version:
+
+👉 **[Download Cybersecurity Résumé (PDF)](./Nicholas_Garcia_Cybersecurity_Resume.pdf)**
 
 ---
 
-## 📄 Current Status
-My résumé is currently being built and updated to reflect:
+### About This Résumé
+This résumé highlights my cybersecurity skills, projects, homelab experience, and technical development as I transition into a career in security operations, threat detection, and defensive security.
 
-- Cybersecurity skills  
-- Hands-on labs and projects  
-- Homelab experience  
-- Technical tools  
-- Professional background  
-- Career objectives  
-
----
-
-## 📌 Coming Soon
-A full résumé written specifically for cybersecurity roles, including:
-
-- Security Analyst  
-- SOC Analyst  
-- IT Security Technician  
-- Cybersecurity Intern  
-
-Once finalized, a PDF version will be added to this page.
+For more details on my projects, visit the main portfolio homepage.
