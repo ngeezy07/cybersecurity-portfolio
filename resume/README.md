@@ -1,6 +1,6 @@
 # Resume
 
-Below are the downloadable versions of my résumés.  
+Below are the downloadable versions of my resumes.  
 You can access the cybersecurity and construction versions using the links below:
 
 ---
