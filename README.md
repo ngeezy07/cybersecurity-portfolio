@@ -67,7 +67,9 @@ Linux • Bash • SQL • Wireshark • Nmap • Splunk/Chronicle SIEM • Wind
 ## 🔹 Contact
 
 **Email:** nich7.garcia@gmail.com
+
 **LinkedIn:**  www.linkedin.com/in/nicholas-garcia-909926303
-**GitHub:** (this site)
+
+**GitHub:** [(this site)](https://github.com/Nich-Garcia)
 
 Feel free to reach out regarding entry-level cybersecurity roles, internships, or collaboration opportunities.
